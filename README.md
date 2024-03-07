@@ -1,1 +1,0 @@
-# bioinoformatics_course
